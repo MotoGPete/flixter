@@ -1,0 +1,58 @@
+0000000000000000000000000000000000000000 ff200deda0155631a6ccad51f6f730e759527e4b Peter Boulton <peterboulton1228@gmail.com> 1567812482 +0000	commit (initial): Initial commit
+ff200deda0155631a6ccad51f6f730e759527e4b e3873728b7d6044c9adb6184ab3302c8dee4a850 Peter Boulton <peterboulton1228@gmail.com> 1567813582 +0000	commit: created nomster app
+e3873728b7d6044c9adb6184ab3302c8dee4a850 b2976f3221323f384c6c2b97bbca6c7926f6c20c Peter Boulton <peterboulton1228@gmail.com> 1567813855 +0000	commit: created databases, migration
+b2976f3221323f384c6c2b97bbca6c7926f6c20c 93bfa61dc73ced323e21992dc565500e90ad1c3b Peter Boulton <peterboulton1228@gmail.com> 1567815055 +0000	commit: created name address and desccription
+93bfa61dc73ced323e21992dc565500e90ad1c3b f97b92bb98fca5974df86f713eb9d736e6ffbf49 Peter Boulton <peterboulton1228@gmail.com> 1567815716 +0000	commit: bug fix on index.html.erb
+f97b92bb98fca5974df86f713eb9d736e6ffbf49 a2a9dfe3b0e4f48c3b8aa8397386b7bd18821788 Peter Boulton <peterboulton1228@gmail.com> 1567825441 +0000	commit: added bootstrap
+a2a9dfe3b0e4f48c3b8aa8397386b7bd18821788 b629f9ee97b82e902ae2fef9078540208040ff79 Peter Boulton <peterboulton1228@gmail.com> 1567826449 +0000	commit: added navbar
+b629f9ee97b82e902ae2fef9078540208040ff79 014daa4367dfd60658e07eee3ae55fef7e231d75 Peter Boulton <peterboulton1228@gmail.com> 1567831149 +0000	commit: added box
+014daa4367dfd60658e07eee3ae55fef7e231d75 4767bce49b4a19fd75bf342261ffed1be8702d62 Peter Boulton <peterboulton1228@gmail.com> 1567835107 +0000	commit: added background and font
+4767bce49b4a19fd75bf342261ffed1be8702d62 58e9ea809d3ebdce03fb44e10d21edd4bd675c77 Peter Boulton <peterboulton1228@gmail.com> 1567837982 +0000	commit: added fonts
+58e9ea809d3ebdce03fb44e10d21edd4bd675c77 80ad745218375b6454afee4621a7655dfd1b0cd9 Peter Boulton <peterboulton1228@gmail.com> 1567882975 +0000	commit: added form submission, kind of, and pagination(woot)
+80ad745218375b6454afee4621a7655dfd1b0cd9 1dbc9c8c4395d9c335ab4560ccf389501c7af98f Peter Boulton <peterboulton1228@gmail.com> 1567883618 +0000	commit: made form work
+1dbc9c8c4395d9c335ab4560ccf389501c7af98f b2c19cf90e31368f62d7190c271c117766271501 Peter Boulton <peterboulton1228@gmail.com> 1567887091 +0000	commit: links in Navbar
+b2c19cf90e31368f62d7190c271c117766271501 1a8d3e2016157277203873271008025e4c6a4664 Peter Boulton <peterboulton1228@gmail.com> 1567889694 +0000	commit: heroku push fix?
+1a8d3e2016157277203873271008025e4c6a4664 84cba810449b02164aab0a599731fcdc8f92f2c8 Peter Boulton <peterboulton1228@gmail.com> 1567889866 +0000	commit: heroku push fix and devise gem
+84cba810449b02164aab0a599731fcdc8f92f2c8 8707efa52db2758903c6b88dc96f00ee0bb084b0 Peter Boulton <peterboulton1228@gmail.com> 1567895071 +0000	commit: added devise, still no heroku fix
+8707efa52db2758903c6b88dc96f00ee0bb084b0 3735745ba2afc8eac7052ab41040a1a6d0a3c4a6 Peter Boulton <peterboulton1228@gmail.com> 1567895878 +0000	commit: add precompiled assets for heroku
+3735745ba2afc8eac7052ab41040a1a6d0a3c4a6 7f9f7470ea7d08a03b0b587b80b2a7d0cc3a10c2 Peter Boulton <peterboulton1228@gmail.com> 1567897578 +0000	commit: user sign in and out added
+7f9f7470ea7d08a03b0b587b80b2a7d0cc3a10c2 146ff3a77aa9b6f02414c421f790ac52d891c565 Peter Boulton <peterboulton1228@gmail.com> 1567898909 +0000	commit: added user info to table
+146ff3a77aa9b6f02414c421f790ac52d891c565 ba5364f3dde27a7ba07b5ac029fa64b434ad5541 Peter Boulton <peterboulton1228@gmail.com> 1567899509 +0000	commit: cleaned up the sign in page
+ba5364f3dde27a7ba07b5ac029fa64b434ad5541 e3873728b7d6044c9adb6184ab3302c8dee4a850 Peter Boulton <peterboulton1228@gmail.com> 1568186034 +0000	checkout: moving from master to e3873728b7d6044c9adb6184ab3302c8dee4a850
+e3873728b7d6044c9adb6184ab3302c8dee4a850 f97b92bb98fca5974df86f713eb9d736e6ffbf49 Peter Boulton <peterboulton1228@gmail.com> 1568245987 +0000	checkout: moving from e3873728b7d6044c9adb6184ab3302c8dee4a850 to f97b92bb98fca5974df86f713eb9d736e6ffbf49
+f97b92bb98fca5974df86f713eb9d736e6ffbf49 ba5364f3dde27a7ba07b5ac029fa64b434ad5541 Peter Boulton <peterboulton1228@gmail.com> 1568247372 +0000	checkout: moving from f97b92bb98fca5974df86f713eb9d736e6ffbf49 to master
+ba5364f3dde27a7ba07b5ac029fa64b434ad5541 3cf324599a44db8fdf269cf36e3299f238f7cc55 Peter Boulton <peterboulton1228@gmail.com> 1568248231 +0000	commit: final solution to heroku problem
+3cf324599a44db8fdf269cf36e3299f238f7cc55 7b33637fd1f0b5f08c950a07b9151b8b12820e4a Peter Boulton <peterboulton1228@gmail.com> 1568249190 +0000	commit: fix for heroku assets?
+7b33637fd1f0b5f08c950a07b9151b8b12820e4a 5254d343847641021478e286ac7f274dc9e7c3fd Peter Boulton <peterboulton1228@gmail.com> 1568252098 +0000	commit: show page and id
+5254d343847641021478e286ac7f274dc9e7c3fd bc35918928e864ba40ecc408b6843c981f02795c Peter Boulton <peterboulton1228@gmail.com> 1568255099 +0000	commit: added update function
+bc35918928e864ba40ecc408b6843c981f02795c 79082772bdd78a89d8b71b4e120c1219d1f5fa9e Peter Boulton <peterboulton1228@gmail.com> 1568255584 +0000	commit: added destroy place
+79082772bdd78a89d8b71b4e120c1219d1f5fa9e ea71af437ad3656d7f85ab3a458b84f077e3876a Peter Boulton <peterboulton1228@gmail.com> 1568257041 +0000	commit: added security for edit
+ea71af437ad3656d7f85ab3a458b84f077e3876a 3ab16ccfe2749aeaf3e0bf2850230cc415ec03a8 Peter Boulton <peterboulton1228@gmail.com> 1568257430 +0000	commit: added security to destroy
+3ab16ccfe2749aeaf3e0bf2850230cc415ec03a8 123dea3d5a4f634f07e0309e3ca19b71b43c2ad0 Peter Boulton <peterboulton1228@gmail.com> 1568259656 +0000	commit: changed error messages
+123dea3d5a4f634f07e0309e3ca19b71b43c2ad0 b335e1c388d9658ba0794ca2af4504c04a5e308f Peter Boulton <peterboulton1228@gmail.com> 1568337523 +0000	commit: tried to add lat and lng
+b335e1c388d9658ba0794ca2af4504c04a5e308f f5c0b7648541f9eb439a50a8fb8a8dcfe96260dd Peter Boulton <peterboulton1228@gmail.com> 1568431535 +0000	commit: added API and Lat and lng columns
+f5c0b7648541f9eb439a50a8fb8a8dcfe96260dd 152082da4029a7bdedaa1b25e42c352f9b4ec8e9 Peter Boulton <peterboulton1228@gmail.com> 1568435940 +0000	commit: added map
+152082da4029a7bdedaa1b25e42c352f9b4ec8e9 c1d193a6103bfb1b8fc644256a23d3422b7b3790 Peter Boulton <peterboulton1228@gmail.com> 1568436609 +0000	commit: added comments table
+c1d193a6103bfb1b8fc644256a23d3422b7b3790 c1d193a6103bfb1b8fc644256a23d3422b7b3790 Peter Boulton <peterboulton1228@gmail.com> 1568484649 +0000	checkout: moving from master to c1d193a6103bfb1b8fc644256a23d3422b7b3790
+c1d193a6103bfb1b8fc644256a23d3422b7b3790 152082da4029a7bdedaa1b25e42c352f9b4ec8e9 Peter Boulton <peterboulton1228@gmail.com> 1568484756 +0000	checkout: moving from c1d193a6103bfb1b8fc644256a23d3422b7b3790 to 152082da4029a7bdedaa1b25e42c352f9b4ec8e9
+152082da4029a7bdedaa1b25e42c352f9b4ec8e9 054c1fb9d730c45fc6404f305a353b9853c1f1f8 Peter Boulton <peterboulton1228@gmail.com> 1568485126 +0000	commit: added comments part 1
+054c1fb9d730c45fc6404f305a353b9853c1f1f8 152082da4029a7bdedaa1b25e42c352f9b4ec8e9 Peter Boulton <peterboulton1228@gmail.com> 1568485503 +0000	checkout: moving from 054c1fb9d730c45fc6404f305a353b9853c1f1f8 to 152082da4029a7bdedaa1b25e42c352f9b4ec8e9
+152082da4029a7bdedaa1b25e42c352f9b4ec8e9 f5c0b7648541f9eb439a50a8fb8a8dcfe96260dd Peter Boulton <peterboulton1228@gmail.com> 1568486297 +0000	checkout: moving from 152082da4029a7bdedaa1b25e42c352f9b4ec8e9 to f5c0b7648541f9eb439a50a8fb8a8dcfe96260dd
+f5c0b7648541f9eb439a50a8fb8a8dcfe96260dd 0d287149d5ccdccc7674f23a9b76b83fbe207817 Peter Boulton <peterboulton1228@gmail.com> 1568486950 +0000	commit: hopefully fixed comment migration issue and added map
+0d287149d5ccdccc7674f23a9b76b83fbe207817 c1d193a6103bfb1b8fc644256a23d3422b7b3790 Peter Boulton <peterboulton1228@gmail.com> 1568488627 +0000	checkout: moving from 0d287149d5ccdccc7674f23a9b76b83fbe207817 to master
+c1d193a6103bfb1b8fc644256a23d3422b7b3790 fd07afc2bd51919b33170bb5edd340e5f4371c16 Peter Boulton <peterboulton1228@gmail.com> 1568489244 +0000	commit: comments database fixed
+fd07afc2bd51919b33170bb5edd340e5f4371c16 c1d193a6103bfb1b8fc644256a23d3422b7b3790 Peter Boulton <peterboulton1228@gmail.com> 1568489651 +0000	checkout: moving from master to head~1
+c1d193a6103bfb1b8fc644256a23d3422b7b3790 fd07afc2bd51919b33170bb5edd340e5f4371c16 Peter Boulton <peterboulton1228@gmail.com> 1568489848 +0000	checkout: moving from c1d193a6103bfb1b8fc644256a23d3422b7b3790 to master
+fd07afc2bd51919b33170bb5edd340e5f4371c16 c6743a8801f8ae898dc38bdda7ee090ec5440a1e Peter Boulton <peterboulton1228@gmail.com> 1568490082 +0000	commit: trying to fix heroku master
+c6743a8801f8ae898dc38bdda7ee090ec5440a1e 4519f35298df174552d0f2bfc770f399dd281d23 Peter Boulton <peterboulton1228@gmail.com> 1568490318 +0000	commit: another attempt
+4519f35298df174552d0f2bfc770f399dd281d23 c6743a8801f8ae898dc38bdda7ee090ec5440a1e Peter Boulton <peterboulton1228@gmail.com> 1568490828 +0000	checkout: moving from master to head~1
+c6743a8801f8ae898dc38bdda7ee090ec5440a1e 4519f35298df174552d0f2bfc770f399dd281d23 Peter Boulton <peterboulton1228@gmail.com> 1568491021 +0000	checkout: moving from c6743a8801f8ae898dc38bdda7ee090ec5440a1e to master
+4519f35298df174552d0f2bfc770f399dd281d23 143b766a709e3996a87fe58198806b213753ece1 Peter Boulton <peterboulton1228@gmail.com> 1568492882 +0000	commit: added datatables and routes for comments
+143b766a709e3996a87fe58198806b213753ece1 178571db75710602dd9cfbf06556b45a7703e74b Peter Boulton <peterboulton1228@gmail.com> 1568493222 +0000	commit: added h tag to see comments
+178571db75710602dd9cfbf06556b45a7703e74b 82f621b9999afa88e08b88605b9d0d40051c5743 Peter Boulton <peterboulton1228@gmail.com> 1568494184 +0000	commit: added rating dictionary and updated rating to humanized rating
+82f621b9999afa88e08b88605b9d0d40051c5743 52c95c7b0e583fef5b1f9773151c628b26f3b74b Peter Boulton <peterboulton1228@gmail.com> 1568495090 +0000	commit: put comments in modal
+52c95c7b0e583fef5b1f9773151c628b26f3b74b b38c5ec3401e0326aba3e70bc3862a1e5845429a Peter Boulton <peterboulton1228@gmail.com> 1568496199 +0000	commit: added css to comments
+b38c5ec3401e0326aba3e70bc3862a1e5845429a 9d4127ae33ab32719dd3d48618d65bc9708ca046 Peter Boulton <peterboulton1228@gmail.com> 1568496909 +0000	commit: css and added latest comments
+9d4127ae33ab32719dd3d48618d65bc9708ca046 9664f42335671ec66026005cf0a2985649db00a8 Peter Boulton <peterboulton1228@gmail.com> 1568504074 +0000	commit: halfway through addding photos
+9664f42335671ec66026005cf0a2985649db00a8 9d4127ae33ab32719dd3d48618d65bc9708ca046 Peter Boulton <peterboulton1228@gmail.com> 1569075912 +0000	checkout: moving from master to 9d4127ae33ab32719dd3d48618d65bc9708ca046
+9d4127ae33ab32719dd3d48618d65bc9708ca046 f29997b8b87c7848037992870223728a3efc71c7 MotoGPete <53741622+MotoGPete@users.noreply.github.com> 1569091221 -0600	commit: these changes are bad

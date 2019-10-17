@@ -18,7 +18,7 @@
       <a class="navbar-brand" href="#">Flixter</a>
 
       <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-       
+
         <ul class="navbar-nav">
           <% if user_signed_in? %>
           <li class="nav-item">
@@ -45,11 +45,11 @@
     <%= yield %>
   </div>
 
-  <div id="footer">
-    <div class="container">
-      <b>Footer Here</b>
+    <div id="footer">
+      <div class="container">
+      <b>Teachers</b>
       <br />
-      <%= link_to 'Link', '#' %>
+      <%= link_to 'Teach a Course', new_instructor_course_path %>
       <div>
       </div>
     </div> 
