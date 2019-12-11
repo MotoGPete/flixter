@@ -66,7 +66,7 @@ gem 'carrierwave', '~> 1.0'
 gem "figaro"
 gem "fog-aws"
 gem "mini_magick"
-
+gem 'stripe'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.14.3'
 gem 'bootstrap', '~> 4.3.1'
