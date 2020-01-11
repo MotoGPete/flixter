@@ -14,11 +14,10 @@ class Instructor::CoursesController < ApplicationController
     else
       render :new, status: :unprocessable_entity
     end
-    #@course.image.create(@course.id)
-    #@course.create(@course.id)
   end
 
   def show
+    @section = Section.new
   end
 
   private
@@ -35,7 +34,6 @@ class Instructor::CoursesController < ApplicationController
   end
 
   def course_params
-    #params.require(:course).permit(:title, :description, :cost, :image
     params.require(:course).permit(:title, :description, :cost, :image)
 
   end
