@@ -23,9 +23,6 @@ class LessonsController < ApplicationController
 
 		else
 			redirect_to root_url, alert: 'You Shall Not Pass!'
-
-
-
 		end
 	end
 
