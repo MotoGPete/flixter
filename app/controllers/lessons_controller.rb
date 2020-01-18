@@ -18,12 +18,12 @@ class LessonsController < ApplicationController
 
 
 	def require_authorized_for_current_section
-		if current_user.enrolled_in?(@current_course) = @current_user 
+		 if current_user.enrolled_in?(@current_course) #= @current_user 
 			redirect_to course_path(current_lesson.course)
 
 		else
 			redirect_to root_url, alert: 'You Shall Not Pass!'
-		end
+end
 	end
 
 	helper_method :current_lesson
